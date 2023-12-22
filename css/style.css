@@ -1,0 +1,38 @@
+/*Element selectors*
+
+/*
+h1{
+    color: red;
+}
+
+p{
+    color: blue;
+}
+*/
+
+/*clase selectors*/
+/*
+.one{
+    color: red;
+}
+.two{
+    color: rgb(218, 13, 207);
+}
+*/
+
+/* id selectors*/
+/*
+#one{
+    color: red;
+}
+#two{
+    color: rgb(218, 13, 207);
+}
+
+*/
+
+/*universal selectors*/
+/*
+*{
+    color: aqua;
+}*/
